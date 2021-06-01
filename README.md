@@ -2,6 +2,10 @@
   Python3 Cross Wrapper
 </h1>
 
+<h3 align="center">
+  AVDC Edition
+</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat"/>
   <img src="https://img.shields.io/github/license/rog-net/Python3_Cross_Wrapper.svg?style=flat"/>
