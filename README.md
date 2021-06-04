@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  AVDC Edition
+  [AVDC](https://github.com/yoshiko2/av_data_capture) Edition
 </h2>
 
 <p align="center">
